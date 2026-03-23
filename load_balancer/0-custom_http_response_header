@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# config new machine server using nginx
+# config new machine server using to use nginx and add starter configration
 
 apt-get -y update
 apt-get install -y nginx
